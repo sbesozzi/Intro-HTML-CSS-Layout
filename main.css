@@ -14,7 +14,7 @@ body {
 .octocat {
   
   margin: 10px;
-  border-bottom-style: groove;
+  border-bottom: 1px solid grey;
   display: inline-block;
   
 
@@ -22,7 +22,7 @@ body {
 
 .octocat img {
   height: 300px;
-  border:1px solid black;
+  border:1px solid grey;
   width: 300px;
 }
 
