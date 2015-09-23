@@ -22,8 +22,10 @@ body {
 
 .octocat img {
   height: 300px;
-  border:1px solid grey;
   width: 300px;
+  border:1px solid grey;
+  border-radius: 4px;
+  
 }
 
 .image-footer {
