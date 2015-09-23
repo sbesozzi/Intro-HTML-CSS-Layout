@@ -27,12 +27,19 @@ body {
 }
 
 .image-footer {
+  font-size: 16px;
+
 
 }
 
 .image-caption {
   float: right;
+  
 
+}
+
+.image-number {
+   
 }
 
 .image-number:before {
@@ -47,4 +54,5 @@ body {
 .authors img {
    height: 25px;
   width: 25px;
+  border: none;
 }
