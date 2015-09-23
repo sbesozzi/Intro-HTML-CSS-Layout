@@ -1,0 +1,50 @@
+ul {
+ list-style-type: none;
+}
+
+body {
+  margin: 0; 
+}
+
+.octodex {
+  padding: 10px;
+  margin: 20px auto;
+}
+
+.octocat {
+  
+  margin: 10px;
+  border-bottom-style: groove;
+  display: inline-block;
+  
+
+}
+
+.octocat img {
+  height: 300px;
+  border:1px solid black;
+  width: 300px;
+}
+
+.image-footer {
+
+}
+
+.image-caption {
+  float: right;
+
+}
+
+.image-number:before {
+  content: "#";
+}
+
+.authors {
+  float: right;
+
+}
+
+.authors img {
+   height: 25px;
+  width: 25px;
+}
