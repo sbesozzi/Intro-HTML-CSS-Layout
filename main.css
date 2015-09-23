@@ -28,14 +28,10 @@ body {
 
 .image-footer {
   font-size: 16px;
-
-
 }
 
 .image-caption {
   float: right;
-  
-
 }
 
 .image-number {
@@ -52,7 +48,8 @@ body {
 }
 
 .authors img {
-   height: 25px;
+  height: 25px;
   width: 25px;
   border: none;
+  border-radius: 4px;
 }
